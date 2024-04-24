@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Machine Learning
+subtitle: PhD in Machine Learning, EPFL
 
 profile:
   align: right
