@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://code-Assasin.github.io/sitemap.xml
+Sitemap: https://harsmac.github.io/sitemap.xml
